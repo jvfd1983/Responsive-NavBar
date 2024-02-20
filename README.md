@@ -1,8 +1,5 @@
-# React + Vite
+# Responsive NavBar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![SatisfiedData-SatisfiedGIF (2)](https://github.com/jvfd1983/Responsive-NavBar/assets/152170826/0b455037-2274-4a4f-b333-38b7ce5ba881)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
